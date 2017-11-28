@@ -1,4 +1,4 @@
 # s6_computational_neuroscience
-Simulation of a simple model of neuronal spiking
+Computer simulations of a simple model for neuronal spiking
 
 Mark: 19/20 (rank 1)
