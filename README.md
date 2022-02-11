@@ -6,4 +6,4 @@ Reference: Eugene M Izhikevich, Simple model of spiking neurons, IEEE Transactio
 
 Mark: 19/20 (ranked 1st).
 
-<img src="LaTeX/figure_3.png" width="600"><img src="LaTeX/figure_10.png" width="600">
+<img src="LaTeX/figure_3.png" width="500"><img src="LaTeX/figure_10.png" width="500">
