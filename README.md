@@ -6,4 +6,5 @@ Reference: Eugene M Izhikevich, Simple model of spiking neurons, IEEE Transactio
 
 Mark: 19/20 (ranked 1st).
 
-![Comparison of ISTA and NonCvx-Pro flows](LaTeX/figure_3.png)(LaTeX/figure_10.png)
+![Comparison of ISTA and NonCvx-Pro flows](LaTeX/figure_3.png)
+![Comparison of ISTA and NonCvx-Pro flows](LaTeX/figure_10.png)
