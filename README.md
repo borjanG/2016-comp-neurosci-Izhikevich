@@ -1,4 +1,4 @@
-# Undergraduate computational neuroscience course project
+# Computational neuroscience (undergraduate course) project
 
 Simulations of a simple model for neuronal spiking using Numpy.
 
@@ -6,4 +6,4 @@ Reference: Eugene M Izhikevich, Simple model of spiking neurons, IEEE Transactio
 
 Mark: 19/20 (ranked 1st).
 
-<img src="LaTeX/figure_3.png" width="350"><img src="LaTeX/figure_10.png" width="350">
+<img src="LaTeX/figure_3.png" width="370"><img src="LaTeX/figure_10.png" width="370">
